@@ -1,0 +1,16 @@
+{
+  "name": "bcyptTut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "jsonwebtoken": "^8.0.1",
+    "mongoose": "^4.11.11"
+  }
+}
